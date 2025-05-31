@@ -4,6 +4,9 @@
 ```bash 
 https://github.com/vishalparmarr/Piyush-Garg-Tutorials/tree/main/AI-LIGHT
 ```
+```bash
+cd AI-LIGHT
+```
 2. Install dependencies - 
 ```bash 
 npm install
